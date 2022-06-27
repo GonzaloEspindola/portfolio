@@ -5,7 +5,7 @@ import { Home } from '../pages/Home'
 import { Error404 } from '../pages/Error404'
 
 const RouterApp = () => (
-  <Router>
+  <Router basename='/portfolio'>
     <Routes>
       <Route path='/' element={<Home />} />
       <Route path='/*' element={<Error404 />} />
