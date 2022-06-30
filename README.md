@@ -1,75 +1,93 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="public/favicon.ico" alt="Logo" width="80" height="80">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Portfolio personal</h3>
 
-## Available Scripts
+  <p align="center">
+    Pagina web a modo de portfolio personal para mostrar mis proyectos
+    <br />
+    <a href="https://gonzaloespindola.github.io/portfolio/">Ver deploy</a>
+  </p>
+</div>
 
-In the project directory, you can run:
 
-### `npm start`
+<!-- ABOUT THE PROJECT -->
+## Sobre el proyecto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![](https://i.ibb.co/9rqK3ZK/screenshot-1.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La idea de este proyecto es tener un lugar donde poder describir quien soy, cuales son mis conocimientos y poder mostrar todos los proyectos que haga para poder verlos mas facilmente.
 
-### `npm test`
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Construido con
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" alt="Logo" width="80" height="80"><img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" alt="Logo" width="80" height="80"><img src="https://cdn-icons-png.flaticon.com/512/969/969958.png" alt="Logo" width="80" height="80">
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Instalacion
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Si quieres usar mi portfolio como template para realizar el tuyo, puedes hacerlo perfectamente.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clona el repositorio
+   ```sh
+    git clone https://github.com/GonzaloEspindola/portfolio.git
+    ```
+2. Instala las dependencias
+   ```sh
+   npm install
+   ```
+3. Carga los datos de tus proyectos en el archivo 'projects.js' en 'src/utils/projects.js'.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<!-- ROADMAP 
+## Roadmap
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Add Additional Templates w/ Examples
+- [ ] Add "components" document to easily copy & paste sections of the readme
+- [ ] Multi-language Support
+    - [ ] Chinese
+    - [ ] Spanish
 
-### Code Splitting
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-->
 
-### Analyzing the Bundle Size
+<!-- CONTRIBUTING 
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-### Making a Progressive Web App
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-### Advanced Configuration
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+-->
 
-### Deployment
+<!-- LICENSE -->
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Distribuido bajo la licencia MIT. Vea 'LICENSE.txt' para mas informacion.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# portfolio
-Portfolio personal
->>>>>>> 0549041c5fa244d3b4cc5052927d4ed7027bc06b
+<p align="right">(<a href="#top">back to top</a>)</p>
