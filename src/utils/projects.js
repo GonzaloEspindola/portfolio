@@ -17,6 +17,15 @@ const projects = [{
   date: 'Backend'
 },
 {
+  title: 'Beatiful Screenshot',
+  subtitle: 'Aplicacion web para hacer capturas de pantalla de cualquier web con su URL"',
+  tech: ['html5', 'css3', 'js', 'react', 'git'],
+  imageLink: 'https://i.ibb.co/fp4fTnN/screenshot.png',
+  githubLink: 'https://github.com/GonzaloEspindola/beatiful-screenshot',
+  demoLink: 'https://gonzaloespindola.github.io/beatiful-screenshot/',
+  date: 'Frontend'
+},
+{
   title: 'League of Legends SPA',
   subtitle: 'Single Web Page consumiendo la API oficial del juego League Of Legends"',
   tech: ['html5', 'css3', 'js', 'react', 'git'],
