@@ -230,9 +230,8 @@ span, p, i {
 }
 
 #projects .featured_project_img img {
-  width: 100%;
+  width: 80%;
   height: 100%;
-  object-fit: cover;
 }
 
 .techs_used {
