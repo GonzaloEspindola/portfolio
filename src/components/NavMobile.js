@@ -7,7 +7,7 @@ const NavMobile = () => {
     <>
       <header className='header_mobile'>
         <nav className='nav_mobile'>
-          <a href='/'>Gonza Espindola</a>
+          <a href='/portfolio'>Gonza Espindola</a>
           <i class='fa-solid fa-bars fa-2xl' onClick={() => setIsNavbarActivate(!isNavbarActivate)} />
         </nav>
       </header>
