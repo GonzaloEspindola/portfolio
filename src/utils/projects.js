@@ -5,7 +5,7 @@ const projects = [{
   imageLink: 'https://i.ibb.co/g9M4gKD/screenshot.png',
   githubLink: 'https://github.com/GonzaloEspindola/gestor-de-gastos',
   demoLink: 'https://gonzaloespindola.github.io/gestor-de-gastos/login',
-  date: 'FullStack'
+  date: 'Fullstack (Frontend - Backend)'
 },
 {
   title: 'API de "Dragon Ball Super"',
@@ -13,21 +13,21 @@ const projects = [{
   tech: ['react', 'node', 'git', 'postgresql'],
   imageLink: 'https://i.ibb.co/vVGTdcg/screenshot-2.png',
   githubLink: 'https://github.com/GonzaloEspindola/dbz_api_nodejs',
-  demoLink: 'dragon-ball-super-api.herokuapp.com/',
+  demoLink: 'https://dragon-ball-super-api.herokuapp.com/',
   date: 'Backend'
 },
 {
-  title: 'Beatiful Screenshot',
-  subtitle: 'Aplicacion web para hacer capturas de pantalla de cualquier web con su URL"',
+  title: 'Beautiful Screenshot',
+  subtitle: 'Aplicacion web para hacer capturas de pantalla de cualquier web con su URL',
   tech: ['html5', 'css3', 'js', 'react', 'git'],
   imageLink: 'https://i.ibb.co/fp4fTnN/screenshot.png',
   githubLink: 'https://github.com/GonzaloEspindola/beatiful-screenshot',
-  demoLink: 'https://gonzaloespindola.github.io/beatiful-screenshot/',
-  date: 'Frontend'
+  demoLink: 'https://gonzaloespindola.github.io/beautiful-screenshot/',
+  date: 'Fullstack (Frontend - Backend)'
 },
 {
   title: 'League of Legends SPA',
-  subtitle: 'Single Web Page consumiendo la API oficial del juego League Of Legends"',
+  subtitle: 'Single Web Page consumiendo la API oficial del juego "League Of Legends"',
   tech: ['html5', 'css3', 'js', 'react', 'git'],
   imageLink: 'https://i.ibb.co/Y8r4xqv/screenshot-1.png',
   githubLink: 'https://github.com/GonzaloEspindola/leagueoflegends_spa',
